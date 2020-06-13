@@ -1,0 +1,1122 @@
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "weather2_pkey"
+DETAIL:  Key (query_time)=(2020-01-02 09:59:16) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:17, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-02 09:59:17, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:54, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:54, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:54, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:55, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:55, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:55, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "weather2_pkey"
+DETAIL:  Key (query_time)=(2020-01-24 09:13:55) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:56, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:56, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:13:58, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:07, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:09, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:09, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:16, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "weather2_pkey"
+DETAIL:  Key (query_time)=(2020-01-24 09:14:28) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:28, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:34, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:34, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:35, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:35, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:40, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:44, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:14:44, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:02, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:04, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:08, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:08, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:12, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:12, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:18, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:20, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:28, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:29, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:35, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:37, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:41, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:41, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:42, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:47, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:47, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:51, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:53, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:15:57, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:01, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:01, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:01, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:03, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:09, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:10, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:12, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:15, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:22, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:24, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:28, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:30, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:31, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:32, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-01-24 09:16:32, BTC) already exists.
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error ON CONFLICT DO UPDATE command cannot affect row a second time
+HINT:  Ensure that no rows proposed for insertion within the same command have duplicate constrained values.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:39, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:39, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:40, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:40, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:40, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:40, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:41, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-04 05:11:41, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-16 06:48:27, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-16 06:48:27, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-02-19 20:46:33, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-03-02 20:58:22, BTC) already exists.
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error value too long for type character varying(500)
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-03-13 23:10:48, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-03-14 01:01:41, BTC) already exists.
+Rollback occurring, error duplicate key value violates unique constraint "crypto_pkey"
+DETAIL:  Key (query_time, asset)=(2020-03-14 01:01:41, BTC) already exists.
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
+Rollback occurring, error value too long for type character varying(250)
